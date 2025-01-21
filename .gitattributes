@@ -1,0 +1,3 @@
+# strip outputs from notebooks before upload
+
+*.ipynb filter=nbstripout
